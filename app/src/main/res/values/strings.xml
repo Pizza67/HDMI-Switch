@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HDMI Switch</string>
+    <string name="title_activity_main">HDMI Switch</string>
+    <string name="enable_switch_on_boot">Switch on boot</string>
+    <string name="delay_before_switching_on_hdmi">Delay before switching on HDMI</string>
+    <string name="no_delay">No delay</string>
+    <string name="s_delay">%1d seconds</string>
+    <string name="settings">Settings</string>
+</resources>
