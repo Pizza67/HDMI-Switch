@@ -6,6 +6,8 @@ An Android TV app that automatically selects the HDMI input source on device boo
 
 This Android TV application is designed to simplify the user experience for projector owners, particularly those using the Gaimoo GM200. The app's primary function is to automatically switch the projector's input source to HDMI upon device boot. Additionally, it offers a configurable delay before switching, allowing users to customize the timing of the HDMI selection.
 
+[![Watch the video](https://img.youtube.com/vi/euG15zUZ9u0/hqdefault.jpg)](https://youtu.be/euG15zUZ9u0)
+
 ## How It Works
 
 The app operates by leveraging the following Android system features:
