@@ -25,6 +25,12 @@ The app operates by leveraging the following Android system features:
 
 This app has been specifically tested and confirmed to work on the **Gaimoo GM200** projector based on **Android 11**. However, it may also be compatible with other projectors that utilize the `AWLiveTV` application (`com.softwinner.awlivetv`) for managing input sources. If you have a similar projector, feel free to try it out and report your findings!
 
+## Installation
+
+You can install the application in two ways:
+1. **Developer Options and ADB:** Enable developer options on your projector (see https://www.youtube.com/watch?v=MXT7d5IBIag), then connect to it using ADB (`adb connect <ip>`) and install the APK (`adb install <apk_file>`).
+2. **USB Sideloading:** Copy the APK to a USB storage device, connect it to your projector, and use the file manager to locate and install the APK.
+
 ## Configuration
 
 The app allows you to:
